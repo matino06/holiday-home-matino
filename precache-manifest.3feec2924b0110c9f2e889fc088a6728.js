@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80a0f3a86eeba9659a1fef68f0102d3f",
+    "revision": "57cbd5f638f86e7629554fa1de0fb3b5",
     "url": "/holiday-home-matino/index.html"
   },
   {
