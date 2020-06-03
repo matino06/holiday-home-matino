@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './App.css';
+import './App.scss';
 
 import HomePage from './pages/home-page/home-page';
 import ContactUs from './pages/contact-us-page/contact-us-page';
