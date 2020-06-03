@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/holiday-home-matino/static/css/main.c75decef.chunk.css",
-    "main.js": "/holiday-home-matino/static/js/main.0e004082.chunk.js",
-    "main.js.map": "/holiday-home-matino/static/js/main.0e004082.chunk.js.map",
+    "main.js": "/holiday-home-matino/static/js/main.698d4367.chunk.js",
+    "main.js.map": "/holiday-home-matino/static/js/main.698d4367.chunk.js.map",
     "runtime-main.js": "/holiday-home-matino/static/js/runtime-main.3b191862.js",
     "runtime-main.js.map": "/holiday-home-matino/static/js/runtime-main.3b191862.js.map",
-    "static/js/2.2b4e457f.chunk.js": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js",
-    "static/js/2.2b4e457f.chunk.js.map": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js.map",
+    "static/js/2.066e2204.chunk.js": "/holiday-home-matino/static/js/2.066e2204.chunk.js",
+    "static/js/2.066e2204.chunk.js.map": "/holiday-home-matino/static/js/2.066e2204.chunk.js.map",
     "index.html": "/holiday-home-matino/index.html",
-    "precache-manifest.7551877491fca7febe3c7b0d2c53799c.js": "/holiday-home-matino/precache-manifest.7551877491fca7febe3c7b0d2c53799c.js",
+    "precache-manifest.c6a90290231a3a192c804016e48f62ce.js": "/holiday-home-matino/precache-manifest.c6a90290231a3a192c804016e48f62ce.js",
     "service-worker.js": "/holiday-home-matino/service-worker.js",
     "static/css/main.c75decef.chunk.css.map": "/holiday-home-matino/static/css/main.c75decef.chunk.css.map",
-    "static/js/2.2b4e457f.chunk.js.LICENSE.txt": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js.LICENSE.txt",
+    "static/js/2.066e2204.chunk.js.LICENSE.txt": "/holiday-home-matino/static/js/2.066e2204.chunk.js.LICENSE.txt",
     "static/media/cards.scss": "/holiday-home-matino/static/media/vrt.b93a0d81.JPG",
     "static/media/info-section.scss": "/holiday-home-matino/static/media/img-info.7c31cea0.jpg",
     "static/media/galery-page.scss": "/holiday-home-matino/static/media/img-main.6bd5eef9.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3b191862.js",
-    "static/js/2.2b4e457f.chunk.js",
+    "static/js/2.066e2204.chunk.js",
     "static/css/main.c75decef.chunk.css",
-    "static/js/main.0e004082.chunk.js"
+    "static/js/main.698d4367.chunk.js"
   ]
 }
