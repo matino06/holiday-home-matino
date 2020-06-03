@@ -15,7 +15,7 @@ function App() {
   return (
     <div>
       <Navigation/>
-      <Route exact path='/' component={HomePage} />
+      <Route exact path='http://matino06.github.io/holiday-home-matino/' component={HomePage} />
       <Route exact path='/contact-us' component={ContactUs} />
       <Route exact path='/gallery' component={GalleryPage} />
     </div>
