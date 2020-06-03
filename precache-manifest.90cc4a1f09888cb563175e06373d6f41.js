@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "044c8bb41d09099d2dd9bab6ee4f4965",
+    "revision": "f47607030f01ed22b2a26fc400e7a736",
     "url": "/holiday-home-matino/index.html"
   },
   {
-    "revision": "d34cbbfc3c8da849e197",
-    "url": "/holiday-home-matino/static/css/main.77692551.chunk.css"
+    "revision": "42737e81c26b441608ed",
+    "url": "/holiday-home-matino/static/css/main.d54cc606.chunk.css"
   },
   {
     "revision": "7434db487f9e37902c6b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holiday-home-matino/static/js/2.066e2204.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d34cbbfc3c8da849e197",
-    "url": "/holiday-home-matino/static/js/main.698d4367.chunk.js"
+    "revision": "42737e81c26b441608ed",
+    "url": "/holiday-home-matino/static/js/main.a5be70fe.chunk.js"
   },
   {
     "revision": "665c3343a6737a4a26e2",
