@@ -14,9 +14,9 @@ const Navigation = () => (
 
         <nav className="navigation__nav">
             <ul className="navigation__list">
-                <li className="navigation__item"><a href="http://localhost:3000" className="navigation__link"><span>01</span>Home Page</a></li>
-                <li className="navigation__item"><a href="http://localhost:3000/contact-us" className="navigation__link"><span>02</span>Contact Us</a></li>
-                <li className="navigation__item"><a href="http://localhost:3000/gallery" className="navigation__link"><span>03</span>Gallery</a></li>
+                <li className="navigation__item"><a href="https://matino06.github.io/holiday-home-matino" className="navigation__link"><span>01</span>Home Page</a></li>
+                <li className="navigation__item"><a href="https://matino06.github.io/holiday-home-matino/contact-us" className="navigation__link"><span>02</span>Contact Us</a></li>
+                <li className="navigation__item"><a href="https://matino06.github.io/holiday-home-matino/gallery" className="navigation__link"><span>03</span>Gallery</a></li>
             </ul>
         </nav>
     </div>
