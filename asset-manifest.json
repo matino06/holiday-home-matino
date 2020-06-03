@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sample-react-app/static/css/main.46ce0606.chunk.css",
-    "main.js": "/sample-react-app/static/js/main.1d53afa6.chunk.js",
-    "main.js.map": "/sample-react-app/static/js/main.1d53afa6.chunk.js.map",
-    "runtime-main.js": "/sample-react-app/static/js/runtime-main.485966a0.js",
-    "runtime-main.js.map": "/sample-react-app/static/js/runtime-main.485966a0.js.map",
-    "static/js/2.2b4e457f.chunk.js": "/sample-react-app/static/js/2.2b4e457f.chunk.js",
-    "static/js/2.2b4e457f.chunk.js.map": "/sample-react-app/static/js/2.2b4e457f.chunk.js.map",
-    "index.html": "/sample-react-app/index.html",
-    "precache-manifest.bb4c56af91f4c6d3d53007b285291f39.js": "/sample-react-app/precache-manifest.bb4c56af91f4c6d3d53007b285291f39.js",
-    "service-worker.js": "/sample-react-app/service-worker.js",
-    "static/css/main.46ce0606.chunk.css.map": "/sample-react-app/static/css/main.46ce0606.chunk.css.map",
-    "static/js/2.2b4e457f.chunk.js.LICENSE.txt": "/sample-react-app/static/js/2.2b4e457f.chunk.js.LICENSE.txt",
-    "static/media/cards.scss": "/sample-react-app/static/media/vrt.b93a0d81.JPG",
-    "static/media/info-section.scss": "/sample-react-app/static/media/img-info.7c31cea0.jpg",
-    "static/media/galery-page.scss": "/sample-react-app/static/media/img-main.6bd5eef9.jpg",
-    "static/media/logo.10a03bd2.svg": "/sample-react-app/static/media/logo.10a03bd2.svg",
-    "static/media/logo.e2fbf266.svg": "/sample-react-app/static/media/logo.e2fbf266.svg"
+    "main.css": "/holiday-home-matino/static/css/main.c75decef.chunk.css",
+    "main.js": "/holiday-home-matino/static/js/main.1d53afa6.chunk.js",
+    "main.js.map": "/holiday-home-matino/static/js/main.1d53afa6.chunk.js.map",
+    "runtime-main.js": "/holiday-home-matino/static/js/runtime-main.3b191862.js",
+    "runtime-main.js.map": "/holiday-home-matino/static/js/runtime-main.3b191862.js.map",
+    "static/js/2.2b4e457f.chunk.js": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js",
+    "static/js/2.2b4e457f.chunk.js.map": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js.map",
+    "index.html": "/holiday-home-matino/index.html",
+    "precache-manifest.f47d384740961329921e6f530d8d40ec.js": "/holiday-home-matino/precache-manifest.f47d384740961329921e6f530d8d40ec.js",
+    "service-worker.js": "/holiday-home-matino/service-worker.js",
+    "static/css/main.c75decef.chunk.css.map": "/holiday-home-matino/static/css/main.c75decef.chunk.css.map",
+    "static/js/2.2b4e457f.chunk.js.LICENSE.txt": "/holiday-home-matino/static/js/2.2b4e457f.chunk.js.LICENSE.txt",
+    "static/media/cards.scss": "/holiday-home-matino/static/media/vrt.b93a0d81.JPG",
+    "static/media/info-section.scss": "/holiday-home-matino/static/media/img-info.7c31cea0.jpg",
+    "static/media/galery-page.scss": "/holiday-home-matino/static/media/img-main.6bd5eef9.jpg",
+    "static/media/logo.10a03bd2.svg": "/holiday-home-matino/static/media/logo.10a03bd2.svg",
+    "static/media/logo.e2fbf266.svg": "/holiday-home-matino/static/media/logo.e2fbf266.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.485966a0.js",
+    "static/js/runtime-main.3b191862.js",
     "static/js/2.2b4e457f.chunk.js",
-    "static/css/main.46ce0606.chunk.css",
+    "static/css/main.c75decef.chunk.css",
     "static/js/main.1d53afa6.chunk.js"
   ]
 }
