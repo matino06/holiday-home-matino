@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/holiday-home-matino/precache-manifest.4732066f18f448e1da158ff90edfb2b5.js"
+  "/holiday-home-matino/precache-manifest.7551877491fca7febe3c7b0d2c53799c.js"
 );
 
 self.addEventListener('message', (event) => {
