@@ -4,7 +4,7 @@ import './button-offers.scss'
 
 const ButtonOffers = () => (
     <div className='button-box-offers'>
-        <a href='http://localhost:3000/contact-us' className='btn-offers btn-white-offers'>Book Now!</a>
+        <a href='https://matino06.github.io/holiday-home-matino/#/contact-us' className='btn-offers btn-white-offers'>Book Now!</a>
     </div>
 );
 

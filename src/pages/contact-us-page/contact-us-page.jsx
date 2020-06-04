@@ -12,7 +12,7 @@ const ContactUs = () => (
     <div>
         <div className='img-contact-us'>
             <div className='logo-box'>
-                <a href='http://localhost:3000'><Logo className='logo' href='http://localhost:3000/'/></a>
+                <a href='https://matino06.github.io/holiday-home-matino/#/'><Logo className='logo' href='http://localhost:3000/'/></a>
             </div>
             <HeadingPrimary />
         </div>
