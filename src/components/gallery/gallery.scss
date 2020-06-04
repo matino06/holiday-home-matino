@@ -78,7 +78,7 @@ $gutter-horizontal: 6rem;
       height: 400px;
     }
 
-    @include respond(phone) {
+    @include respond(phoneall) {
       width: 350px;
       height: 200px;
     }
@@ -123,7 +123,7 @@ $gutter-horizontal: 6rem;
       width: 35px;
       border: 1px solid #fff;;
   }
-  @include respond(phone) {
+  @include respond(phoneall) {
       height: 5px;
       width: 25px;
       border: 1px solid #fff;;
