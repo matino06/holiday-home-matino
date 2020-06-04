@@ -15,7 +15,7 @@
 
 }
 
-@mixin respond1($breakpoint) {
+@mixin respond($breakpoint) {
     @if $breakpoint == phone {
         @media only screen and (max-width: 40em) { @content };    //600px
     }
@@ -42,7 +42,7 @@
     position: relative;
     left: 10px;
 
-    @include respond1(phone) {
+    @include respond(phone) {
         letter-spacing: 1rem;
         font-family: 5rem;
     }
@@ -60,7 +60,7 @@
     animation: moveInRight 1s ease-out;
     position: relative;
 
-    @include respond1(phone) {
+    @include respond(phone) {
         letter-spacing: 1.8rem;
         left: 12px;
         font-size: 14px;
