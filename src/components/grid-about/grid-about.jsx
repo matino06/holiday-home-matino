@@ -21,8 +21,6 @@ const GridAbout = () => (
                 is less than 1 km from Makarska Beach, and guests benefit from complimentary WiFi and private 
                 parking available on site.
                 </p>
-
-                <a href="#popup" className="btn-text">House rules &rarr;</a>
             </div>
             <GridImg>
             </GridImg>
@@ -31,3 +29,4 @@ const GridAbout = () => (
 );
 
 export default GridAbout;
+//<a href="#popup" className="btn-text">House rules &rarr;</a>
