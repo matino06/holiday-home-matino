@@ -57,7 +57,7 @@
 
 .heading-primary-sub {
     display: block;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 28px;
     animation: moveInRight 1s ease-out;
@@ -66,7 +66,7 @@
     @include respond(phone) {
         letter-spacing: 1.8rem;
         left: 12px;
-        font-size: 13px;
+        font-size: 10px;
     }
 }
 
