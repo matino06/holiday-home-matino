@@ -13,9 +13,9 @@ const Footer = () => (
             <div className='col-1-of-2'>
                 <div className='footer__navigation'>
                     <ul>
-                        <li className='footer__item'><a className='footer__link' href='https://matino06.github.io/holiday-home-matino'>Home</a></li>
-                        <li className='footer__item'><a className='footer__link' href='https://matino06.github.io/holiday-home-matino/#/gallery'>Gallery</a></li>
-                        <li className='footer__item'><a className='footer__link' href='https://matino06.github.io/holiday-home-matino/#/contact-us'>Contact us</a></li>
+                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com'>Home</a></li>
+                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/gallery'>Gallery</a></li>
+                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/contact-us'>Contact us</a></li>
                     </ul>
                 </div>
             </div>
