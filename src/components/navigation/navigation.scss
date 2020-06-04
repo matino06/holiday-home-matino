@@ -114,6 +114,10 @@ $gutter-horizontal: 6rem;
         text-align: center;
         width: 100%;
 
+        @include respond(tab-port) {
+            transform: translate(-30%,-50%);
+        }
+
         @include respond(phone) {
             transform: translate(-15%,-50%);
         }
@@ -137,9 +141,9 @@ $gutter-horizontal: 6rem;
             background-size: 220%;
             transition: all .4s;
             
-            @include respond(phone) {
+            @include respond(tab-port) {
                 position: relative;
-                left: -120px;
+                left: -150px;
             }
 
             span {
