@@ -32,9 +32,6 @@ $gutter-vertical-small: 6rem;
 $gutter-horizontal: 6rem;
 
 @mixin respond($breakpoint) {
-    @if $breakpoint == phonex {
-        @media only screen and (max-width: 380px) { @content };    //600px
-    }
     @if $breakpoint == phone8 {
         @media only screen and (max-width: 40em) { @content };    //600px
     }
@@ -91,10 +88,5 @@ $gutter-horizontal: 6rem;
         @include respond(phone8) {
             padding: 10rem 0;
             height: 130vh;
-        }
-
-        @include respond(phonex) {
-            padding: 10rem 0;
-            height: 90vh;
         }
 }
