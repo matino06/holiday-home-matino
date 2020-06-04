@@ -84,4 +84,9 @@ $gutter-horizontal: 6rem;
             padding: 10rem 0;
             height: 100vh;
         }
+
+        @include respond(phone) {
+            padding: 10rem 0;
+            height: 120vh;
+        }
 }

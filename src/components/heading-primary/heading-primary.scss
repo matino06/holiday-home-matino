@@ -61,7 +61,7 @@
     position: relative;
 
     @include respond(phone) {
-        letter-spacing: 1.5rem;
+        letter-spacing: 1.9rem;
         left: 12px;
         font-size: 13px;
     }
