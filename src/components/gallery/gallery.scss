@@ -32,8 +32,8 @@ $gutter-vertical-small: 6rem;
 $gutter-horizontal: 6rem;
 
 @mixin respond($breakpoint) {
-    @if $breakpoint == phone {
-        @media only screen and (max-width: 37.5em) { @content };    //600px
+    @if $breakpoint == phoneall {
+        @media only screen and (max-width: 40em) { @content };    //600px
     }
     @if $breakpoint == tab-port {
         @media only screen and (max-width: 56.25em) { @content };     //900px
@@ -93,7 +93,7 @@ $gutter-horizontal: 6rem;
       top: 120%;
     }
 
-    @include respond(phone) {
+    @include respond(phoneall) {
     top: 130%;
     }
   }
