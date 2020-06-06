@@ -14,8 +14,8 @@ const Footer = () => (
                 <div className='footer__navigation'>
                     <ul>
                         <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com'>Home</a></li>
-                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/gallery'>Gallery</a></li>
-                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/contact-us'>Contact us</a></li>
+                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/#/gallery'>Gallery</a></li>
+                        <li className='footer__item'><a className='footer__link' href='https://holidayhomematino.com/#/contact-us'>Contact us</a></li>
                     </ul>
                 </div>
             </div>

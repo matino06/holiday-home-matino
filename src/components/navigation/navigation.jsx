@@ -15,8 +15,8 @@ const Navigation = () => (
         <nav className="navigation__nav">
             <ul className="navigation__list">
                 <li className="navigation__item"><a htmlFor='navi-toggle' href="https://holidayhomematino.com" className="navigation__link"><span>01</span>Home Page</a></li>
-                <li className="navigation__item"><a htmlFor='navi-toggle' href="https://holidayhomematino.com/contact-us" className="navigation__link"><span>02</span>Contact Us</a></li>
-                <li className="navigation__item"><a htmlFor='navi-toggle' href="https://holidayhomematino.com/gallery" className="navigation__link"><span>03</span>Gallery</a></li>
+                <li className="navigation__item"><a htmlFor='navi-toggle' href="https://holidayhomematino.com/#/contact-us" className="navigation__link"><span>02</span>Contact Us</a></li>
+                <li className="navigation__item"><a htmlFor='navi-toggle' href="https://holidayhomematino.com/#/gallery" className="navigation__link"><span>03</span>Gallery</a></li>
             </ul>
         </nav>
     </div>
