@@ -13,7 +13,7 @@ const Cards = () => (
                         &nbsp;
                     </div>
                     <h4 className="card__heading">
-                        <span className="card__heading-span card__heading-span--1">May</span>
+                        <span className="card__heading-span card__heading-span--1">June</span>
                     </h4>
                     <div className="card__details">
                         <ul>
@@ -45,7 +45,7 @@ const Cards = () => (
                         &nbsp;
                     </div>
                     <h4 className="card__heading">
-                        <span className="card__heading-span card__heading-span--2">June</span>
+                        <span className="card__heading-span card__heading-span--2">July</span>
                     </h4>
                     <div className="card__details">
                         <ul>
@@ -78,7 +78,7 @@ const Cards = () => (
                         &nbsp;
                     </div>
                     <h4 className="card__heading">
-                        <span className="card__heading-span card__heading-span--3">July</span>
+                        <span className="card__heading-span card__heading-span--3">August</span>
                     </h4>
                     <div className="card__details">
                         <ul>
