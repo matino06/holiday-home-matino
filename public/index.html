@@ -3,13 +3,11 @@
   <head>
     <meta charset="utf-8" />
     
-    <meta name="description" content="Holiday Home Matino has 3 bedrooms, a flat-screen TV with satellite channels, an equipped kitchen with a 
-    dishwasher and a microwave, a washing machine, and 3 bathrooms with a shower." />
+    <meta name="description" content="width=device-width, initial-scale=1" />
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
 
     <link rel="stylesheet" href="css/icon-font.css">
-    <meta name="description" content="Holiday Home Matino has 3 bedrooms, a flat-screen TV with satellite channels, an equipped kitchen with a 
-    dishwasher and a microwave, a washing machine, and 3 bathrooms with a shower." />
+    <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Holiday Home Matino has 3 bedrooms, a flat-screen TV with satellite channels, an equipped kitchen with a 
@@ -30,42 +28,42 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
+    
     <title>Holiday Home Matino</title>
   </head>
 
-  <style>
-    @mixin respond($breakpoint) {
-    @if $breakpoint == phone {
-        @media only screen and (max-width: 37.5em) { @content };    
-    }
-    @if $breakpoint == tab-port {
-        @media only screen and (max-width: 56.25em) { @content };    
-    }
-    @if $breakpoint == tab-land {
-        @media only screen and (max-width: 75em) { @content };   
-    }
-    @if $breakpoint == big-desktop {
-        @media only screen and (min-width: 112.5em) { @content };    
-    }
-}
-    html {
-      font-size: 12px;
-
-      @include respond(tab-land) { // width < 1200?
-        font-size: 56.25%; //1 rem = 9px, 9/16 = 50%
-    }
-
-    @include respond(tab-port) { // width < 900?
-        font-size: 50%; //1 rem = 8px, 8/16 = 50%
-    }
-    
-    @include respond(big-desktop) {
-        font-size: 75%; //1rem = 12, 12/16
-    }
-    }
-  </style>
-
   <body>
+    <style>
+      @mixin respond($breakpoint) {
+      @if $breakpoint == phone {
+          @media only screen and (max-width: 37.5em) { @content };    
+      }
+      @if $breakpoint == tab-port {
+          @media only screen and (max-width: 56.25em) { @content };    
+      }
+      @if $breakpoint == tab-land {
+          @media only screen and (max-width: 75em) { @content };   
+      }
+      @if $breakpoint == big-desktop {
+          @media only screen and (min-width: 112.5em) { @content };    
+      }
+  }
+      html {
+        font-size: 12px;
+  
+        @include respond(tab-land) { // width < 1200?
+          font-size: 56.25%; //1 rem = 9px, 9/16 = 50%
+      }
+  
+      @include respond(tab-port) { // width < 900?
+          font-size: 50%; //1 rem = 8px, 8/16 = 50%
+      }
+      
+      @include respond(big-desktop) {
+          font-size: 75%; //1rem = 12, 12/16
+      }
+      }
+    </style>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
@@ -79,4 +77,6 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+
+  
 </html>
