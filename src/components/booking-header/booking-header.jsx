@@ -6,7 +6,7 @@ const HeadingGallery = () => (
   <div className='text-box'>
       <h1 className='heading-booking'>
           <span className='heading-booking-main'>Gallery</span>
-          <span className='heading-booking-sub'>You can get a felle for the house</span>
+          <span className='heading-booking-sub'>You can get a feel for the house</span>
       </h1>
   </div>
 );
