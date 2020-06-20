@@ -21,8 +21,8 @@ const Footer = () => (
             </div>
             <div className='col-1-of-2'>
                 <p className='footer__copyright'>
-                    Built in 2020 by <a className='footer__link' href='mailto:matino0546@gmail.com'>Matino Miličević</a>. 
-                    Copyright &copy; by Matino Miličević.
+                    Built in 2020 by <a className='footer__link' href='code-drip.com'>code drip</a>. 
+                    Copyright &copy; by code drip.
                 </p>
             </div>
         </div>
