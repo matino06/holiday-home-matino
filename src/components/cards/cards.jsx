@@ -95,7 +95,7 @@ const Cards = () => (
                     <div className="card__cta">
                         <div className="card__price-box">
                             <p className="card__price-only">Only</p>
-                            <p className="card__price-value">€220</p>
+                            <p className="card__price-value">€280</p>
                         </div>
                         <ButtonOffers/>
                     </div>
